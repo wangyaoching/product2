@@ -2856,7 +2856,7 @@ input.checkbox:checked:after {
 	.w3l_banner_nav_right_banner3 h3, .w3l_banner_nav_right_banner4 h3, .w3l_banner_nav_right_banner5 h3, .w3l_banner_nav_right_banner6 h3, .w3l_banner_nav_right_banner7 h3, .w3l_banner_nav_right_banner8 h3, .w3l_banner_nav_right_banner9 h3, .w3l_banner_nav_right_banner10 h3 {
 		width: 45%;
 	}
-	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2 {
+	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2 ,.w3l_banner_nav_right_newbanner2{
 		padding: 10em 7em 0 0;
 	}
 	.snipcart-details {
@@ -2888,7 +2888,7 @@ input.checkbox:checked:after {
 	.w3l_search {
 		margin: .1em 0 0em 6em;
 	}
-	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2 {
+	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2,.w3l_banner_nav_right_newbanner2 {
 		padding: 7em 13em 0 0;
 		min-height: 375px;
 	}
@@ -3031,7 +3031,7 @@ input.checkbox:checked:after {
 		margin-left: 42em;
 		width: 25%;
 	}
-	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2 {
+	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2 ,.w3l_banner_nav_right_newbanner2{
 		padding: 7em 4em 0 0;
 	}
 	.wthree_banner_btm_pos h3 span {
@@ -3528,7 +3528,7 @@ input.checkbox:checked:after {
 		left: 10%;
 		min-width: 135px;
 	}
-	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2 {
+	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2 ,.w3l_banner_nav_right_newbanner2{
 		min-height: 315px;
 		padding: 5em 4em 0 0;
 	}
@@ -4018,7 +4018,7 @@ input.checkbox:checked:after {
 	.w3l_banner_nav_right_banner h3, .w3l_banner_nav_right_banner1 h3, .w3l_banner_nav_right_banner2 h3 {
 		font-size: 1.5em;
 	}
-	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2 {
+	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2,.w3l_banner_nav_right_newbanner2 {
 		min-height: 240px;
 		padding: 2.5em 3em 0 0;
 		margin-bottom: 3em;
@@ -4558,7 +4558,7 @@ input.checkbox:checked:after {
 	.w3l_search input[type="submit"]:hover {
 		background: url(../images/img-sp.png) no-repeat 11px 3px #84C639;
 	}
-	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2 {
+	.w3l_banner_nav_right_banner1, .w3l_banner_nav_right_banner, .w3l_banner_nav_right_banner2 ,.w3l_banner_nav_right_newbanner2{
 		min-height: 190px;
 		padding: 2em 3em 0 0;
 	}
