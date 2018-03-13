@@ -424,7 +424,7 @@ ul.dropdown-menu.drp-mnu li a i {
     padding-left: 0;
 }
 .wthree_banner_bottom_left_grid{
-	position:relative;
+    position:relative;
 }
 .wthree_banner_bottom_left_grid_pos{
 	position: absolute;
@@ -4542,6 +4542,7 @@ input.checkbox:checked:after {
 		width: 36%;
 	}
 }
+
 @media (max-width: 320px){
 	.agileits_social_icons li a i {
 		padding: .9em 0 0;
@@ -4825,4 +4826,7 @@ input.checkbox:checked:after {
 		background: url(../images/cart.png) no-repeat 105px 5px;
 		font-size: 13px;
 	}
+}
+.chinese{
+    font-family: DFKai-sb;
 }
