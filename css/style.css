@@ -2065,11 +2065,12 @@ p.animi{
 	line-height:2em;
 	margin:1em 0 0;
 }
-.agile_about_grid_left ol li{
+.agile_about_grid_left ol li, ul li{
 	color:#212121;
 	margin-bottom:1.5em;
+    
 }
-.agile_about_grid_left ol {
+.agile_about_grid_left ol, ul {
     margin: 0;
 }
 .agile_about_grids {
@@ -3391,7 +3392,7 @@ input.checkbox:checked:after {
 	.agile_about_grid_left {
 		margin: 2em 0 0;
 	}
-	.agileits_team_grid {
+    .agileits_team_grid {
 		float: left;
 		width: 50%;
 	}
