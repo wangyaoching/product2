@@ -2065,12 +2065,12 @@ p.animi{
 	line-height:2em;
 	margin:1em 0 0;
 }
-.agile_about_grid_left ol li, ul li{
+.agile_about_grid_left ol li{
 	color:#212121;
 	margin-bottom:1.5em;
     
 }
-.agile_about_grid_left ol, ul {
+.agile_about_grid_left ol{
     margin: 0;
 }
 .agile_about_grids {
