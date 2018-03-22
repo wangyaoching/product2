@@ -826,7 +826,7 @@ a.btn.btn-primary {
       background: #fa1818;
 }
 .vertical_post form input[type="submit"] {
-     background: #84c639;
+    background: #84c639;
     color: #FFFFFF;
     text-align: center;
     padding: 10px 0;
@@ -4836,7 +4836,7 @@ input.checkbox:checked:after {
 
 position: relative;
 
-padding-bottom: 56.25%;
+padding-bottom:56.25%;
 
 padding-top: 30px;
 
